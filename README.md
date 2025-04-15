@@ -65,3 +65,12 @@
 - Her adımda Q-table güncellenir:
   ```python
   Q(s, a) ← (1 - α) * Q(s, a) + α * [r + γ * max Q(s', a')]
+
+# Not: Bu çalışma Google Colab üzerinde yapılmış ve taksi adlı klasörde, Google Drive'da kaydedilmiştir.
+
+
+
+
+
+
+
