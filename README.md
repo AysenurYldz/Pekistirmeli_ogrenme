@@ -1,7 +1,4 @@
 # 🚕 Taksi Ortamı ile Q-Öğrenme Eğitimi
-
-Bu proje, özel bir 10x10 taksi haritasında **Q-learning** algoritması kullanarak bir taksinin yolcu alıp hedefe güvenli şekilde götürmeyi öğrenmesini amaçlar.
-
 ---
 
 ## 🗺️ Harita ve Engeller
@@ -63,7 +60,7 @@ Bu proje, özel bir 10x10 taksi haritasında **Q-learning** algoritması kullana
 ---
 
 ## 🤖 Q-learning Eğitimi
-- Toplam **5000 bölüm**
+- Toplam **500 epoch**
 - Aksiyonlar rastgele keşfedilir veya Q-table’dan seçilir
 - Her adımda Q-table güncellenir:
   ```python
